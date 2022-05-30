@@ -1,0 +1,8 @@
+Git bash
+pwd - show where I am
+ls - show all files and folders
+mkdir - make directory
+touch - create a file
+rm -r - remove folder with  files in it
+mv - move
+
